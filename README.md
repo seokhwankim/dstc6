@@ -1,4 +1,4 @@
-# Dialog System Techonology Challenge 6 (DSTC6)
+# Dialog System Technology Challenge 6 (DSTC6)
 
 Starting as an initiative to provide a common testbed for the task of Dialogue State Tracking, the first Dialog State Tracking Challenge (DSTC) was organized in 2013, followed by Dialog State Tracking Challenges 2 & 3 in 2014. More recently, Dialog State Tracking Challenge 4 and Dialog State Tracking Challenge 5 have been completed in 2015 and 2016. While the first three challenges focused on human-computer interactions, the last two did it on human-human interactions, also offering pilot tasks on Spoken Language Understanding, Speech Act Prediction, Natural Language Generation and End-to-end System Evaluation.
 
